@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Арман Мухамбетов](https://up.htmlacademy.ru/htmlcss/27/user/1289689).
-* Наставник: [Сергей Остаповец] (https://htmlacademy.ru/profile/seraphim).
+* Наставник: [Сергей Остаповец] (https://up.htmlacademy.ru/htmlcss/27/user/288419).
 
 ---
 
