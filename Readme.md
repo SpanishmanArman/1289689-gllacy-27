@@ -3,7 +3,7 @@
 * Студент: [Арман Мухамбетов](https://up.htmlacademy.ru/htmlcss/27/user/1289689).
 * Наставник: 
 [Сергей 
-Остаповец].
+Остаповец] (https://htmlacademy.ru/profile/seraphim).
 
 ---
 
